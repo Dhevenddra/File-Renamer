@@ -12,8 +12,7 @@ The File Renaming Tool is a Python script that allows you to rename a set of fil
 5. The files in the source directory will be renamed sequentially and moved to the destination directory.
 
 ## Requirements
-Python 3.x
-The shutil module (included in the Python standard library)
- """
-Remember to replace the placeholder links, such as `/path/to/source/directory` and `/path/to/destination/directory`, with the appropriate paths in your actual README file.
-"""
+* Python 3.x
+* The shutil module (included in the Python standard library)
+
+`Remember to replace the placeholder links, such as `/path/to/source/directory` and `/path/to/destination/directory`, with the appropriate paths in your actual README file.`
